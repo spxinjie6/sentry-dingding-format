@@ -5,11 +5,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="sentry-dingding-wb",
-    version='1.0.5',
+    name="wb-sentry-ding",
+    version='1.0.0',
     author='dreamerldq',
     author_email='845790692@qq.com',
-    url='https://github.com/dreamerldq/sentry-dingding-format',
+    url='https://github.com/spxinjie6/sentry-dingding-format.git',
     description='A Sentry extension which send errors stats to DingDing',
     long_description=long_description,
     long_description_content_type="text/markdown",
