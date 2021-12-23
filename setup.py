@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 
 setup(
     name="wb-sentry-ding",
-    version='1.0.0',
-    author='dreamerldq',
+    version='1.0.2',
+    author='spxinjie6',
     author_email='845790692@qq.com',
     url='https://github.com/spxinjie6/sentry-dingding-format.git',
     description='A Sentry extension which send errors stats to DingDing',
